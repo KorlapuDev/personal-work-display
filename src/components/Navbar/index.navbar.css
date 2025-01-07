@@ -1,0 +1,14 @@
+.mainNavContainer {
+  position: absolute;
+  margin: auto;
+  bottom: 1.5%;
+  width: 100%;
+}
+
+.motionContainer {
+  color: black;
+  border-radius: 0.5rem;
+  background-color: black;
+  padding: 0.5rem;
+  border: 2px solid whitesmoke;
+}
