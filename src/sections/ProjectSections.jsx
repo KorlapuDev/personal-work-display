@@ -4,7 +4,8 @@ import MinimalCard from "../components/Cards/MinimalCard";
 const ProjectSections = () => {
   return (
     <div>
-      <MinimalCard />
+      {/* <MinimalCard /> */}
+      <div className="cardProject">Hello</div>
     </div>
   );
 };
