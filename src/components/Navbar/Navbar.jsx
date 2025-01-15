@@ -32,7 +32,6 @@ const RenderNavItem = ({ selectedItm, setNav }) => {
       </Tooltip>
       <Tooltip title="Projects">
         <Box
-          border="1px solid"
           borderRadius="0.4rem"
           className="flex-column-center"
           onClick={() => {
